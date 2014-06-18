@@ -1,0 +1,26 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="716" measuredH="605" mockupW="616" mockupH="573">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="100" y="32" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+        <model>IPhone5</model>
+        <orientation>portrait</orientation>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="155" y="172" w="-1" h="-1" measuredW="57" measuredH="63" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>I%20am%20here</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::StickyNote" x="409" y="205" w="307" h="123" measuredW="109" measuredH="123" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Click%20the%20Icon%20will%20start%20an%20annimation%20which%20would%20auto%20login%20and%20update%20Location%20information%20to%20server.</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::StickyNote" x="415" y="368" w="295" h="123" measuredW="109" measuredH="123" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>If%20in%20unregisted%20status%2Cwill%20open%20%27where%20are%20you%20unregisted%27%20dialog.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
